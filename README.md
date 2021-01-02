@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Father, Developer, and Mentor!
 
-- 🔭 I just launched my first course!
+- 🔭 I love React!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to utilize my coding skills to help others
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love surfing and hunting
 
