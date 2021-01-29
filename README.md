@@ -35,8 +35,7 @@
 <br />
 <br />
 
-[website]: https://muradwebdev.com
+[website]: https://murad-cholukov.netlify.app/
 [twitter]: https://twitter.com/muradusa
-[youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/murad_webdev/
 [linkedin]: https://www.linkedin.com/in/muradcholukov/
