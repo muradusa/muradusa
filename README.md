@@ -1,4 +1,4 @@
-### Hi there, I'm Murad  👋
+### Hi there, I'm Murat  👋
 
 ## I'm a Husband, Father, Developer, and Mentor!
 
