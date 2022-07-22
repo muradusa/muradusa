@@ -5,7 +5,7 @@
 - 🔭 I love Salesforce!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to utilize my coding skills to help others
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love surfing and hunting
 
 ### Connect with me:
